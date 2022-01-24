@@ -9,7 +9,7 @@ Commissions = 1/100;////1% of either side of the trade
 ///OPtimization Parameters: 1. Entrytime 2.Exittime 3.Strike 4.Gap Condition 
 
 
-#include <StrikepriceselectorBNL V.1.1.afl>
+#include <BankniftyWeeklyStrikePriceSelector.afl>
 
 LotSize = IIf(Datenum()>=1110101 AND DateNum()<=1151029, 25 , IIf( DateNum()>=1151030 AND DateNum()<=1160630 , 30, IIf( DateNum()>=1160701 AND DateNum()<=1181025 , 40 , IIf( DateNum()>=1181026 AND DateNum()<=1200730 , 20 , 25)))) ;   
 

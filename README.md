@@ -10,17 +10,14 @@ Entry Signals: Based on Move in Premium
 Exit Signals:  Next Day Morning Optimized Time
 Position Sizing: % of Equity : Between 1-4% of Equity Based on Capacity 
 Expiry Symbol: Trading all Same Expiries
-
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 #BNL V.2.1:
 Entry Signals:Based on Move in Banknifty
 Expiry Symbol: Trading all Same Expiries
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
-
 #BNL V.2.2:
 Entry Signals:Based on Move in Banknifty
 Expiry Symbol: Trading Next Expiry on Expiry Days(Thursdays)
-
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 

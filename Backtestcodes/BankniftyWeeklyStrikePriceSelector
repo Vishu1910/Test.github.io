@@ -27,7 +27,6 @@ PutSelection  = IIf(Type == "PE" AND (StrikePrice == PutOTM), 1 , 0);
 
 StrikePriceSelector = CallSelection OR PutSelection;
 
-Code  = StrToNum(strmid(Name(),15,1))*10000 + StrToNum(strmid(Name(),16,1))*1000 + StrToNum(StrMid(Name(),17,1))*100;
 
 
 

@@ -20,6 +20,16 @@ Entry Signals:Based on Move in Banknifty
 Expiry Symbol: Trading Next Expiry on Expiry Days(Thursdays)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+Database Details:
+
+Link to Database:
+DB Name: Bankniftyweekly Database with Next expiry Symbols
+Watchlist: 
+For V.1.1 and V.2.1 use the current Expiry WL
+For V.2.1: Use WL with Both Next Expiry and Current Expiry
+
+Database and Backtest Settings:
+
 
 
 

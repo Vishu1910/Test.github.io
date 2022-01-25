@@ -29,7 +29,7 @@ For V.2.1: Use WL with Both Next Expiry and Current Expiry
 
 Database and Backtest Settings:
 
-![Image](BNLongbacktest settings.png)
+![Image](https://github.com/qodeinvestments/Bankniftylong/blob/main/BNLongbacktest%20settings.png)
 
 
 

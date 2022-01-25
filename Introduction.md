@@ -30,7 +30,7 @@ For V.2.1: Use WL with Both Next Expiry and Current Expiry
 
 Database and Backtest Settings:
 
-
+![DB Settings]()
 
 
 

@@ -67,7 +67,7 @@
   <div class="container">
     <div class="page-header">
        <img src="./logo.png"/>
-       <h1>uTrade Solutions Pvt. Ltd.</h1>
+       <h1>Qode Investments</h1>
     </div>
   
   <div id="hzbar">
